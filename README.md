@@ -20,7 +20,7 @@
 ## Установка и запуск
 1. Клонирование репозитория:
 ```bash
-git clone https://github.com/ваш_репозиторий.git
+git clone https://github.com/atomsis/media-file-service.git
 ```
 
 2. Создание и активация виртуального окружения:
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 6. Запуск тестов:
-- Нажмите праой кнопкой мыши по test_main.py(если вы в pycharm) и выбирете "Run Python tests". Либо любым другим способом запустите файл test_main.py 
+- Нажмите правой кнопкой мыши по test_main.py(если вы в pycharm) и выбирете "Run Python tests". Либо любым другим способом запустите файл test_main.py 
 
 ## Проверка хранилища
 ##### Я решил воспользоваться облачком от Selectel.
