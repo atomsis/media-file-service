@@ -96,3 +96,4 @@ chmod +x /path/to/your/project/clean_old_files.py
 ```
 ##### Проверьте логи Cron, если скрипт не выполняется как ожидалось. Логи могут быть доступны в файле /var/log/syslog или /var/log/cron.log в зависимости от конфигурации вашей системы.
 
+###### i see you
